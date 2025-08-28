@@ -1,1 +1,1 @@
-echo Building the project
+echo Updating project
